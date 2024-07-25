@@ -30,10 +30,10 @@
       "console_title_bar": "კონსოლი",
       "message_window_title_bar": "შეტყობინება",
       "file_dialog_title_bar": "ფაილების აღრიცხვა",
-      "Home_directory": "მთავარი დირექტორია",
+      "Home_directory": "მთავარი ფოლდერი",
       "Delete": "წაშლა",
-      "Parent_directory": "მშობელი დირექტორია",
-      "Refresh_directory": "დირექტორიის გადატვირთვა",
+      "Parent_directory": "მშობელი ფოლდერი",
+      "Refresh_directory": "ფოლდერის გადატვირთვა",
       "Delete_filename": "გსურთ წაშალოთ %{file_name} ?"
     }
   }
